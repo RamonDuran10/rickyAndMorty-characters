@@ -1,0 +1,15 @@
+.app {
+    background-image: url('https://www.xtrafondos.com/wallpapers/rick-y-morty-en-el-espacio-6046.jpg');
+}
+
+.pagination{
+    display: flex;
+    color: white;
+    justify-content: center;
+    padding-bottom: 5px;
+}
+button {
+    border-radius: 5px;
+    color: black;
+    background: lightcyan;
+}
